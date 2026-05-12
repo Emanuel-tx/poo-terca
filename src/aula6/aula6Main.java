@@ -30,6 +30,8 @@ void main(){
         }
     }
 }
+
+
 public void salvarCliente(ArrayList<Cliente> clientes){
     String nome = IO.readln("digite o nome:");
     String cpf = IO.readln("digite o cpf:");
